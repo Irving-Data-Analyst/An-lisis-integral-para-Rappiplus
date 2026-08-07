@@ -1,5 +1,3 @@
-El objetivo de este proyecto es evaluar el desempeño del servicio **RappiPlus** para apoyar **decisiones de negocio basadas en datos**.
-
 Se trabajan con múltiples datasets del negocio:
 
 - **rappiplus_orders_raw.csv** → información de pedidos, precios, descuentos y revenue  
